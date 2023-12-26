@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Emon Akter Sourov</h1>
 <h3 align="center">Software Engineer Intern</h3>
 
-- 🌱 I’m currently learning **nestJS**
+- 🌱 I’m currently learning **nestJS** && Machine Learning
 
 - 📫 How to reach me **emonsourov@gmail.com**
 
