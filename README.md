@@ -1,10 +1,10 @@
 [![MasterHead](https://s3.amazonaws.com/algoworksupload/new-algoworks/wp-content/uploads/2016/05/18052646/stm_banner.gif)](https://s3.amazonaws.com/algoworksupload/new-algoworks/wp-content/uploads/2016/05/18052646/stm_banner.gif)
 
 <h1 align="center">Hello 👋, I'm Emon A. Sourov</h1>
-<h3 align="center">A passionate Software Test Automation Engineer from Bangladesh</h3>
+<h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://qph.fs.quoracdn.net/main-qimg-d99d0e0d22ae73f7d8f6e948fe1e7e44">
 
-- 🔭 I’m currently working on **Web & Mobile App Automation**
+- 🔭 I’m currently working as a SQA Engineer, Both **Web & Mobile App Automation** Side
 
 - 🌱 I’m currently learning **Playwright,WebdriverIO,Katalon**
 
